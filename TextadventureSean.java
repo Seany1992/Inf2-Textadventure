@@ -49,12 +49,12 @@ public class Textadventure extends Application {
         beschriftungen[1][0] = "Du wirst panisch und sprintest in das badezimmer.";
         naechsterAbschnitt[1][0] = 3;
         beschriftungen[1][1] = "Du entscheidest dich dafür lieber weiterzuschlafen, weil das Bett einfach zu gemütlich ist.";
-        naechsterAbschnitt[1][1] = 0;
+        naechsterAbschnitt[1][1] = 10;
 
         // 2: Schlummern
         abschnitte[2] = "nach weiteren 20 Minuten Schlaf, klingelt der Wecker ein weiteres Mal";
         beschriftungen[2][0] = "Du entscheidest dich dafür im Bett liegen zu bleiben und den Wecker auszuschalten";
-        naechsterAbschnitt[2][0] = 9;
+        naechsterAbschnitt[2][0] = 10;
         beschriftungen[2][1] = "Du entscheidest dich endlich aufzustehen, wird aber auch Zeit!!";
         naechsterAbschnitt[2][1] =1 ;
 
